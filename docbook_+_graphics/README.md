@@ -1,0 +1,1 @@
+# Docbook + Graphics {#docbook-graphics}
