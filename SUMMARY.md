@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction [test]](README.md)
 * [Prerequisites](prerequisites/README.md)
   * [Installation](prerequisites/installation.md)
 * [Ant for docbook tasks](ant_for_docbook_tasks/README.md)
